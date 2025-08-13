@@ -6,3 +6,5 @@
 <strong>Как установить ?</strong>   
 <hr>  
 <img src="https://i.postimg.cc/rmsDw9T8/2025-08-13-153019.png">
+
+Выбрать папку с кодом
