@@ -1,6 +1,6 @@
 # yougame.biz-adblocker
-<strong>говард, иди нахуй<strong>    <br/> <br/> <br/>
-Разширение работает пока только на Chrome / Edge. У FireFox свой движок, скоро сделаю порт на WebExtensions API. <br/>
+<strong>говард, иди нахуй<strong>    <br/> <br/>
+Разширение работает пока только на Chrome / Edge. У FireFox свой движок, скоро сделаю порт на WebExtensions API. <br/><br/>
 Extension while work only on Chrome / Edge. FireFox create on custom engine. Wait a little.
 
 <img src="https://i.postimg.cc/760p7FwX/MainLogo.png">   
