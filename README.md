@@ -1,5 +1,7 @@
 # yougame.biz-adblocker
 говард, иди нахуй
+Разширение работает пока только на Chrome / Edge. У FireFox свой движок, скоро сделаю порт на WebExtensions API.
+Extension while work only on Chrome / Edge. FireFox create on custom engine. Wait a little.
 
 <img src="https://i.postimg.cc/760p7FwX/MainLogo.png">   
 
