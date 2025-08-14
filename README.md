@@ -5,7 +5,7 @@ Extension while work only on Chrome / Edge. FireFox create on custom engine. Wai
 
 <img src="https://i.postimg.cc/760p7FwX/MainLogo.png">   
 
-<strong>Как установить ?</strong>   
+<strong>Как установить ? (Chrome / Edge ONLY)</strong>   
 <hr>  
 <img src="https://i.postimg.cc/rmsDw9T8/2025-08-13-153019.png">
 
