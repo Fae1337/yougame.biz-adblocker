@@ -1,0 +1,33 @@
+{
+  "icons": {
+    "16": "/icons/16x16.jpg",
+    "32": "/icons/32x32.jpg",
+    "48": "/icons/48x48.png",
+    "128": "/icons/128x128.jpg"
+  },
+  "manifest_version": 3,
+  "name": "YouGame AdBlocker",
+  "description": "Blocking ads on Russian cheat forum YouGame.biz",
+  "version": "0.0.1",
+  "author": "Daltoniks",
+  "action": {
+    "default_title": "YouGame AdBlocker"
+  },
+  "permissions": [
+    "scripting",
+    "tabs",
+    "webNavigation"
+  ],
+  "host_permissions": [
+    "https://yougame.biz/"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["ygadblocker.js"],
+      "matches": ["https://yougame.biz/*"]
+    }
+  ]
+}
