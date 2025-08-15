@@ -1,12 +1,7 @@
-# yougame.biz-adblocker
-<strong>говард, иди нахуй<strong>    <br/> <br/>
-Разширение работает пока только на Chrome / Edge. У FireFox свой движок, скоро сделаю порт на WebExtensions API. <br/><br/>
-Extension while work only on Chrome / Edge. FireFox create on custom engine. Wait a little.
+# yougame.biz-adblocker говард, иди нахуй
+
+Блокировщик рекламы для <a href="https://yougame.biz">Yougame.biz</a>. Протестировано в Chrome, Edge и Firefox. Для установки расширения скачайте архив, распакуйте его и выберите папку с нужной вам категорией браузера. <br/><br/>
+
+Adblocker for <a href="https://yougame.biz">Yougame.biz</a>. Tested in Chrome, Edge and Firefox. To install the extension, download the archive, unzip it and select the folder with the browser category you need.
 
 <img src="https://i.postimg.cc/760p7FwX/MainLogo.png">   
-
-<strong>Как установить ? (Chrome / Edge ONLY)</strong>   
-<hr>  
-<img src="https://i.postimg.cc/rmsDw9T8/2025-08-13-153019.png">
-
-Выбрать папку с кодом
