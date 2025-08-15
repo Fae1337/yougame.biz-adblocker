@@ -1,4 +1,4 @@
-# yougame.biz-adblocker говард, иди нахуй
+# yougame.biz-adblocker ( говард, иди нахуй )
 
 Блокировщик рекламы для <a href="https://yougame.biz">Yougame.biz</a>. Протестировано в Chrome, Edge и Firefox. Для установки расширения скачайте архив, распакуйте его и выберите папку с нужной вам категорией браузера. <br/><br/>
 
