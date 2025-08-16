@@ -8,7 +8,7 @@
   "manifest_version": 3,
   "name": "YouGame AdBlocker",
   "description": "Blocking ads on Russian cheat forum YouGame.biz",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "author": "Daltoniks",
   "action": {
     "default_title": "YouGame AdBlocker"
@@ -31,3 +31,4 @@
     }
   ]
 }
+
