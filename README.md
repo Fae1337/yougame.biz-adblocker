@@ -1,7 +1,7 @@
 # yougame.biz-adblocker ( говард, иди нахуй )
 <img src="https://i.postimg.cc/760p7FwX/MainLogo.png">   
 
-<p align="center"> --- RU --- </p><br><br>
+<p align="center"> --- RU --- </p><br>
 
 Блокировщик рекламы для <a href="https://yougame.biz">Yougame.biz</a>. Протестировано в Chrome, Edge и Firefox.<br>
 Адблокер проверен на chrome, edge и firefox. Яндекс я не тестил потому-что лень.<br><br>
@@ -15,7 +15,7 @@ Edge:<br>
 Firefox:<br>
 	переходим В БРАУЗЕРЕ по пути about:debugging#/runtime/this-firefox, нажимаем Загрузить временное дополнение и выбираем папке firefox файл manifest.json.<br><br>
 
-<p align="center"> --- ENG --- </p> <br><br>
+<p align="center"> --- ENG --- </p> <br>
 
 Adblocker for <a href="https://yougame.biz">Yougame.biz</a>. Tested in Chrome, Edge and Firefox.<br>
 
