@@ -3,7 +3,7 @@
 
 <p align="center"> --- RU --- </p><br>
 
-Блокировщик рекламы для <a href="https://yougame.biz">Yougame.biz</a>. Протестировано в Chrome, Edge и Firefox.<br>
+Блокировщик рекламы для <a href="https://yougame.biz">Yougame.biz</a>.<br>
 Адблокер проверен на chrome, edge и firefox. Яндекс я не тестил потому-что лень.<br><br>
 
 Chrome:<br>
@@ -17,9 +17,9 @@ Firefox:<br>
 
 <p align="center"> --- ENG --- </p> <br>
 
-Adblocker for <a href="https://yougame.biz">Yougame.biz</a>. Tested in Chrome, Edge and Firefox.<br>
+Adblocker for <a href="https://yougame.biz">Yougame.biz</a>.<br>
 
-Adblocker is tested on chrome, edge and firefox. I didn't test Yandex because I was too lazy.<br>
+Adblocker is tested on chrome, edge and firefox.<br>
 
 Chrome:<br>
 	go to chrome://extensions/ IN THE BROWSER, click Load Unpacked and select the chrome-edge folder.<br>
