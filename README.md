@@ -1,4 +1,4 @@
-# yougame.biz-adblocker ( говард, иди нахуй )
+# yougame.biz-adblocker
 <img src="https://i.postimg.cc/760p7FwX/MainLogo.png">   
 
 <p align="center"> --- RU --- </p><br>
