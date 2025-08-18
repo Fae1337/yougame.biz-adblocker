@@ -1,31 +1,17 @@
 chrome.webNavigation.onCommitted.addListener(function (details) {
-    chrome.tabs.get(details.tabId, function(tab) {
+    chrome.tabs.get(details.tabId).then(function(tab) {
         if (!tab || !tab.url) return;
-
-            let url = tab.url;
-
-            let parsedUrl = url.replace("https://", "")
-                .replace("http://", "")
-                .replace("www.", "");
-
-            let domain = parsedUrl.slice(0, parsedUrl.indexOf('/') == -1 ? parsedUrl.length : parsedUrl.indexOf('/'))
-                .slice(0, parsedUrl.indexOf('?') == -1 ? parsedUrl.length : parsedUrl.indexOf('?'));
-
-            try {
-                if (domain && domain === "yougame.biz") {
-                    runLinkedinScript(details.tabId);
-                }
-            } catch (err) {
-                console.error(err);
-            }
-
-        });
-    }
-);
+        let url = new URL(tab.url);
+        let domain = url.hostname.replace(/^www\./, '');
+        if (domain === "yougame.biz") {
+            runLinkedinScript(details.tabId);
+        }
+    }).catch(console.error);
+});
 
 function runLinkedinScript(tabId) {
     chrome.scripting.executeScript({
         target: { tabId: tabId },
-        files: ['ygadblocker.js']
+        files: ['ygadblocker.js'],
     });
 }
